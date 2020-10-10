@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" /> -->
 
-- I’m currently working on React Native;
+- I’m currently working on Nextjs;
 - I’m currently learning GCP  ; 
 - Ask me about anything, I am happy to help;
 - 
